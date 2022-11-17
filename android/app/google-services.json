@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "921826008700",
+    "project_id": "users-crud-e28f2",
+    "storage_bucket": "users-crud-e28f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921826008700:android:fbd1efb56b6ad9a89af3f9",
+        "android_client_info": {
+          "package_name": "com.example.users_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921826008700-q67tlfrmq7417mkie8sog6aebdr8u9sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq19HSrRYULzPwgVgZCZSygg0G7XGzem4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921826008700-q67tlfrmq7417mkie8sog6aebdr8u9sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
